@@ -3,8 +3,8 @@ RPGaDay ist eine jährliche Aktion um RPG bzw. Pen-&-Paper Rollenspiele zu feier
 
 Für jeden Tag im August gibt es einen Prompt welchen Ihr mittels dem Medium Eurer Wahl beantworten und verarbeiten könnt. Ob Blog, Twitter, Video, Ballade oder Beschwörung etc. bleibt Euch überlassen.
 
-Falls Ihr eine coole Grafik für den RPGaDay2022 machen wollt, dann macht! :D 
-Im Deutschen Raum, zumindest auf Twitter, würde es sich lohnen den Tag #RPGaDay2022 und #pnpde zusammen zu schreiben, damit wir uns gegenseitig finden. Außerdem, Herzlichen Dank an ScarSacul fürs helfen beim übersetzen.
+~~Falls Ihr eine coole Grafik für den RPGaDay2022 machen wollt, dann macht! :D ~~
+Im Deutschen Raum, zumindest auf Twitter, würde es sich lohnen den Tag #RPGaDay2022 und #pnpde zusammen zu schreiben, damit wir uns gegenseitig finden. Außerdem, Herzlichen Dank an ScarSacul fürs helfen beim übersetzen und Grafik (am Ende) erstellen.
 
 ## Frequently Asked Questions - FAQ
 
@@ -14,7 +14,6 @@ Ab **1. Agust!**
 *Soll man dann jeden Tag was Posten oder die Liste abarbeiten?*
 Das ist jedem selbst überlassen. Gab es in den vergangenen Jahren **sowohl als auch.** 🙂
 **Hauptsache mitmachen ist die Devise!** 🥳
-
 
 # Übersetzung
 #RPGaDAY2022 #pnpde Prompts.
@@ -82,3 +81,6 @@ Das ist jedem selbst überlassen. Gab es in den vergangenen Jahren **sowohl als 
 31 - Wann hast Du das erste Mal am #RPGaDay mitgemacht?
 
 ?? - Alternativ Anekdoten: Würfle 1w8+1 und schreibe so viele Freunde an und erzähle Ihnen eine PnP Geschichte über sie.**
+
+# Grafik
+![RPGaDay2022 Prompts als Grafik](https://www.drachenzwinge.de/cloud/index.php/s/MDJjs3F6ifDRpJy/preview)
